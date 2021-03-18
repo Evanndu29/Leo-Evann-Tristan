@@ -1,0 +1,6 @@
+Pour le jeu du pendu il faut avoir les bonnes lettres pour chaque position du mot choisi et si l'on met une mauvaise lettre alors le jeu rajoute des batons jusqu'a constituer un pendu.
+Il faut 10 batons donc 10 mauvaises lettres pour perdre. Si toutes les lettres sont trouver avant que le pendu soit pendu alors c'est gagné. 
+
+- reconnaitre les lettres donc dictionnaire de mots
+- créer les batons de la potence et du pendu
+- 
