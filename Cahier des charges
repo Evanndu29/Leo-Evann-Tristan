@@ -3,14 +3,26 @@ Il faut 10 batons donc 10 mauvaises lettres pour perdre. Si toutes les lettres s
 aléatoire dans le disctionnaire. 
 
 - Dictionnaire de mots : Leo 
+
 Tout d'abord il va falloir créer un dictionnaire avec une dizaine de mots pour ne pas prendre trop de temps a tout écrire. Il faut prendre des mots longs comme
 court et compliqué comme simple. Il faut donc bien choisir ces mots. 
 
 - proposer une lettre et trouver si elle correspond au mot ou pas : Tristan
+
 Quand le joueur rentre une lettre le programme doit reconnaitre que cette lettre rentre bien dans le mot et si oui le programme montre visuellement que la lettre est
 bien dans le mot en la placant sur les traits et si la lettre n'est pas dans le mot le programme doit comprendre qu'il faut mettre un baton sur la potence et le pendu.
 
 - mettre la ou les lettres au bonne endroit sur la ligne : Evann
+
+Il faut mettre la lettre rentrer par le joueur au bonne endroit sur le trait qui correspond au mot et il faut aussi que quand la lettre rentrer par le joueur est bonne 
+que cela l'affiche mais aussi quand la lettre est fausse qu'il y'ai un baton de plus qui construise la potence et ensuite qui crée le bonhome.
+
+
+
+
+
+
+
 
 
 
