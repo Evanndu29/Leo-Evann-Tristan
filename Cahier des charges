@@ -17,14 +17,7 @@ bien dans le mot en la placant sur les traits et si la lettre n'est pas dans le 
 Il faut mettre la lettre rentrer par le joueur au bonne endroit sur le trait qui correspond au mot et il faut aussi que quand la lettre rentrer par le joueur est bonne 
 que cela l'affiche mais aussi quand la lettre est fausse qu'il y'ai un baton de plus qui construise la potence et ensuite qui crée le bonhome.
 
-
-
-
-
-
-
-
-
-
-
 - créer les batons de la potence et du pendu
+
+Il faut crée ceci pour que le joueur est un aspect visuel de la personne pendu quand il fait des erreurs. Il faut faire ceci grâce a une interface graphique.
+Il faut aussi créer les lignes en dessous des lettres pour que le joueur puissent voir combien de lettres contient le mot. 
