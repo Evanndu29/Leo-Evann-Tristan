@@ -1,0 +1,15 @@
+mot_recu = "appelle"
+
+mot=["a","p","p","e","l","l","e"]
+
+
+def place_lettre(mot,lettre):
+    mot_cache=["-","-","-","-","-","-"]
+    for x in range(len(mot)):
+        
+        if lettre==mot[x]:
+            mot_cache[x]=lettre
+    return mot_cache
+
+print(mot[2])
+print(place_lettre(mot,'a'))
