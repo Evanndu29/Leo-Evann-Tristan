@@ -1,0 +1,7 @@
+from random import choice
+
+
+def word():
+    f = open('mots.txt', 'r' , encoding = 'utf8')
+    contenu = f.readlines()
+    return word( choice(contenu) ).upper().replace('\n','')
