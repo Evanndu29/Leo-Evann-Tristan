@@ -2,7 +2,7 @@ Pour le jeu du pendu il faut avoir les bonnes lettres pour chaque position du mo
 Il faut 10 batons donc 10 mauvaises lettres pour perdre. Si toutes les lettres sont trouver avant que le pendu soit pendu alors c'est gagné. Avoir le mot chercher qui va trouver en
 aléatoire dans le disctionnaire. 
 
-- Dictionnaire de mots : Leo 
+- Dictionnaire de mots : Leo (choisir un mot aléatoirement dans le dictionnaire)
 
 Tout d'abord il va falloir créer un dictionnaire avec une dizaine de mots pour ne pas prendre trop de temps a tout écrire. Il faut prendre des mots longs comme
 court et compliqué comme simple. Il faut donc bien choisir ces mots. 
